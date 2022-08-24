@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JosephG631
 - 👀 I’m interested in  AI & gameplay programming 
 - 🌱 I’m currently expanding my knowledge of AI within UE5
--     Most work has incorrect dates please see portfolio 
+-     All work before septemer 2022 has been uploaded in bulk, see portfolio for dates
 - 📫 Contact me via LinkedIn or twitter: https://linktr.ee/josephgilmore
 
 <!---
