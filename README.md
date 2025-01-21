@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JosephG631
-- 👀 I’m interested in  AI & gameplay programming 
+- 👀 I’m an AI gameplay programming 
 -  All work before September 2022 has been uploaded in bulk, see portfolio for dates
-- 📫 Contact me via LinkedIn or twitter: https://linktr.ee/josephgilmore
+- 📫 Contact me via LinkedIn: https://linktr.ee/josephgilmore
 
 <!---
 JosephG631/JosephG631 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
